@@ -50,7 +50,7 @@ const print = function(referencetoaddressbook) {
 
 let myBook = new AddressBook();
 myBook.add("Sawsan", "sawsanIsCool@gmail.com", "734-789-7987", "BFF");
-myBook.add("David", "davidIsCool@gmail.com", "734-5454-5454", "boyfriend");
+myBook.add("David", "davidIsCool@gmail.com", "734-5454-5454", "friend");
 myBook.add("Craig", "craig@gmail.com", "734-789-7897", "dad");
 myBook.add("La'Tisha", "lala@gmail.com", "734-678-1094", "mom");
 myBook.add("Lindsey", "linlin@gmail.com", "654-6546", "sister");
